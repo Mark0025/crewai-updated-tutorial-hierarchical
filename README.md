@@ -1,5 +1,11 @@
 # CrewAI Hierarchical Tutorial
 
+## About
+- **What it is:** An untouched copy of Brandon Hancock's CrewAI tutorial showing agents working in a hierarchy.
+- **Business:** learning
+- **Status:** inactive since 2024-02
+- **Source:** agent research 2026-11-04
+
 ## Overview
 This repository hosts the updated CrewAI tutorial, showcasing advanced AI-powered automation through hierarchical, asynchronous tasks with callbacks and predefined expected outputs. It is designed to illustrate an enhanced workflow for building AI-driven newsletter automation tools.
 
